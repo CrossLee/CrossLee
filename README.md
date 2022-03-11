@@ -1,16 +1,21 @@
+<div align="center">
+	<br>
+	<a href="https://raw.githubusercontent.com/CrossLee/css-in-readme-like-wat/main/header.svg">
+		<img src="https://raw.githubusercontent.com/CrossLee/css-in-readme-like-wat/main/header.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
+</div>
+
+
+<br>
+<br>
+<br>
+
+
 ### Hi there 👋
 
-<!--
-**CrossLee/CrossLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on qdstorm.com.
+- 🌱 I’m currently live on Suzhou China.
+- 📱 I’m making a contribution to a product named 「Teem」to improve stranger socializing effectiveness.
+- 🔍 You can search「Teem」on wechat app.
+- 💬 You can reach me: seederslab[#]gmail.com
