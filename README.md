@@ -19,7 +19,7 @@
 - 📱 I’m making a contribution to a product named 「Teem」to improve stranger socializing effectiveness.
 - 🔍 You can search「Teem」on wechat app.
 - 💬 You can reach me: seederslab[#]gmail.com
-- 📝 Blog: https://bug.pm
+- 📝 Blog: https://www.bug.pm
 
 ### My Products
 - <a href="https://teem.cool" target="_blank">Teem</a>: A social tool for strangers meetup.
