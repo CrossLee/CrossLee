@@ -25,3 +25,5 @@
 - <a href="https://teem.cool" target="_blank">Teem</a>: A social tool for strangers meetup.
 - <a href="https://tinycard.cn">TinyCard</a>: Multi-identity business card generation tool.
 - <a href="https://tinypay.tech">TinyPay</a>: Auto growth based on TinyPay payment.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crosslee)](https://github.com/crosslee)
