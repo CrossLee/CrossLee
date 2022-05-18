@@ -26,4 +26,4 @@
 - <a href="https://tinycard.cn">TinyCard</a>: Multi-identity business card generation tool.
 - <a href="https://tinypay.tech">TinyPay</a>: Auto growth based on TinyPay payment.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crosslee)](https://github.com/crosslee)
+[![Cross's GitHub stats](https://github-readme-stats.vercel.app/api?username=crosslee&show_icons=true&count_private=true)](https://github.com/crosslee)
