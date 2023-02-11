@@ -17,8 +17,7 @@
 <!-- - 🔭 I’m currently working on qdstorm.com. -->
 - 🌱 I’m currently live on Suzhou China.
 - 📱 I’m making a contribution to a product named 「Teem」to improve stranger socializing effectiveness.
-- 🔍 You can search「Teem」on wechat app.
-- 💬 You can reach me: seederslab[#]gmail.com
+- 💬 Contact me: seederslab[#]gmail.com
 - 📝 Blog: https://www.bug.pm
 
 ### My Products
