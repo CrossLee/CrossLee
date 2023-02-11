@@ -15,8 +15,8 @@
 ### Hi there 👋
 
 <!-- - 🔭 I’m currently working on qdstorm.com. -->
-- 🌱 Base: Suzhou China.
 <!-- - 📱 I’m making a contribution to a product named 「Teem」to improve stranger socializing effectiveness. -->
+- 🌱 Base: Suzhou China.
 - 💬 Contact: seederslab[#]gmail.com
 - 📝 Blog: https://www.bug.pm
 
