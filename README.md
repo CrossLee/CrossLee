@@ -22,8 +22,6 @@
 
 ### My Products
 - <a href="https://teem.cool" target="_blank">Teem</a>: A social tool for strangers meetup.
-- <a href="https://tinycard.cn">TinyCard</a>: Multi-identity business card generation tool.
-- <a href="https://tinypay.tech">TinyPay</a>: Auto growth based on TinyPay payment.
-- <a href="https://fyxxq.cn">副业学习圈</a>: 学习副业的小圈子.
+- <a href="https://tinycard.cn">TinyCard</a>: business card generation tool.
 
 [![Cross's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=crosslee&show_icons=true&count_private=true)](https://github.com/crosslee)
