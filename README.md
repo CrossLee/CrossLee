@@ -20,4 +20,4 @@
 - 💬 Contact: seederslab[#]gmail.com
 - 📝 Blog: https://www.bug.pm
 
-[![Cross's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=crosslee&show_icons=true&count_private=true)](https://github.com/crosslee)
+<!--[![Cross's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=crosslee&show_icons=true&count_private=true)](https://github.com/crosslee)-->
